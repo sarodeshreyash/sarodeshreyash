@@ -3,7 +3,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-![giphy](https://user-images.githubusercontent.com/114014034/217726225-6e54d3a8-14c7-4585-98dc-41fcd53b52a1.gif)
+align="right">![giphy](https://user-images.githubusercontent.com/114014034/217726225-6e54d3a8-14c7-4585-98dc-41fcd53b52a1.gif)
 
 - 🔭 I’m currently working on **Machine Learning project**
 
