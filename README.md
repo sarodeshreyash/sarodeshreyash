@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreyash Sarode</h1>
 <h3 align="center">A Data Scinece Enthusiast</h3>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 - 🔭 I’m currently working on **Machine Learning project**
 
 - 🌱 I’m currently learning **Data science**
